@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  
+
+  <link rel="icon" type="image/x-icon" href="https://splus-scale.github.io/assets/img/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://splus-scale.github.io/assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://splus-scale.github.io/assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://splus-scale.github.io/assets/img/favicon-16x16.png">
+  <!-- <link rel="manifest" href="/assets/img/site.webmanifest"> -->
+
+  <meta name="image" content="https://splus-scale.github.io/assets/img/scale_logo_sm.png" />
+  <meta name="og:image" content="https://splus-scale.github.io/assets/img/scale_logo_sm.png" />
+  <meta name="twitter:image" content="https://splus-scale.github.io/assets/img/scale_logo_sm.png" />
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>S-PLUS Clusters and Large Scale Environments | SCALE</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="S-PLUS Clusters and Large Scale Environments" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="S-PLUS Clusters and Large-scale Environments" />
+<meta property="og:description" content="S-PLUS Clusters and Large-scale Environments" />
+<link rel="canonical" href="https://splus-scale.github.io/" />
+<meta property="og:url" content="https://splus-scale.github.io/" />
+<meta property="og:site_name" content="SCALE" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="S-PLUS Clusters and Large Scale Environments" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"S-PLUS Clusters and Large-scale Environments","headline":"S-PLUS Clusters and Large Scale Environments","name":"SCALE","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://splus-scale.github.io/assets/img/scale_logo_sm.png"}},"sameAs":["https://github.com/splus-scale"],"url":"https://splus-scale.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <link rel="dns-prefetch" href="https://github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link 
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
+    rel="stylesheet" 
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
+    crossorigin="anonymous">
+  
+  <link 
+    rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" 
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer">
+    
+  <link 
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" 
+    rel="stylesheet">
+  
+  <link 
+    rel="stylesheet" 
+    href="https://cdn.jsdelivr.net/npm/pygments-css@1.0.0/github.css">
+  
+  <link 
+    rel="stylesheet" 
+    type="text/css" 
+    href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
+
+  <link 
+    rel="stylesheet" 
+    type="text/css" 
+    href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+  
+  <link 
+    rel="stylesheet" 
+    href="https://splus-scale.github.io/assets/css/app.css?v=1783609382">
+</head>
+
+<body>
+  <nav class="navbar navbar-light bg-light static-top navbar-expand-lg py-3">
+  <div class="container">
+    <a class="navbar-brand w-600" href="/">
+      <!-- <img src="/assets/img/iag_logo_black.png" width="30" height="30" class="d-inline-block align-top" alt=""> -->
+      SCALE
+    </a>
+    <button 
+      class="navbar-toggler" 
+      type="button" 
+      data-bs-toggle="collapse" 
+      data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" 
+      aria-expanded="false" 
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ms-auto">
+        
+          
+          <li class="nav-item">
+            <a 
+              href="/"
+              class="nav-link
+                 
+                  active
+                ">
+                Home
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/about/"
+              class="nav-link
+                ">
+                About
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/people/"
+              class="nav-link
+                ">
+                People
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/publications/"
+              class="nav-link
+                ">
+                Publications
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/data/"
+              class="nav-link
+                ">
+                Data
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="site-wrapper">
+    <header class="masthead text-white text-shadow inner-shadow" 
+  style="background-image: url('/assets/uploads/blog-bg.jpg')" >
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-9">
+        
+        <h1  class="w-600" >SCALE</h1>
+        
+
+        
+        <h2 class="w-500">S-PLUS Clusters and Large-scale Environments</h2>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- <section class="features-icons bg-light text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <a href="http://www.iag.usp.br">
+          <div class="features-icons-item mx-auto">
+            <div class="features-icons-icon d-flex">
+              <i class="fas fa-university m-auto"></i>
+            </div>
+            <h3>Instituição</h3>
+            <p class="lead mb-3">Saiba mais sobre o Instituto de Astronomia, Geofísica e Ciências Atmosféricas</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-4">
+        <a href="https://github.com/iagml">
+          <div class="features-icons-item mx-auto">
+            <div class="features-icons-icon d-flex">
+              <i class="fab fa-github m-auto"></i>
+            </div>
+            <h3>Repositórios</h3>
+            <p class="lead mb-0">Acesse os repositórios do projeto no github.</p>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-4">
+        <a href="/blog">
+          <div class="features-icons-item mx-auto mb-4 mb-lg-0">
+            <div class="features-icons-icon d-flex">
+              <i class="fas fa-blog m-auto"></i>
+            </div>
+            <h3>Publicações</h3>
+            <p class="lead mb-0">Acompanhe nossas publicações acessando o blog</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+
+
+<section style="padding: 6rem 0; background: rgb(241, 242, 243);">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-3 col-lg-3">
+        <img src="/assets/img/scale_logo.png" alt="" width="100%">
+      </div>
+      <div class="col-xl-8 mx-auto text-center">
+        <h2 class="mb-4">About the project</h2>
+        <p class="lead">
+          S-PLUS Clusters/Groups and their Large-scale Environments (SCALE) explores how galaxies grow, evolve, and 
+          interact within clusters, groups, and the vast cosmic web that connects them. SCALE combines 12-filter optical 
+          data with public spectroscopy and high-resolution imaging to reveal the structure and history of galaxies, 
+          from dense cluster cores to their outermost regions, extending up to five times the cluster's virial radius.
+        </p>
+        <a href="/about" class="btn btn-outline-dark">More info</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="hero text-white inner-shadow">
+  <div class="container-fluid p-0">
+    <div class="text-center">
+      <h1 class="text-shadow w-600">S-PLUS</h1>
+      <h4 class="text-shadow w-500">The Sourthern Photometric Local Universe Survey</h4>
+      <a href="/about" class="btn btn-light">More Info</a>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="showcase">
+  <div class="w-100 p-0">
+    <div class="row">
+      <div class="col-lg-6 order-lg-2 text-white showcase-img"
+        style="background-image: url('/assets/img/splus_survey.jpg'); background-size: cover; background-position: center center;">
+      </div>
+      <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+        <h2>Surveys</h2>
+        <ul class="mb-0 pl-0 list-unstyled" style="font-size: 1.15rem;">
+          <li>
+            <a href="http://www.splus.iag.usp.br" target="_blank">S-PLUS</a> - 
+            Southern Photometric Local Universe Survey
+          </li>
+          <li>
+            <a href="https://www.desi.lbl.gov" target="_blank">DESI</a> - 
+            Dark Energy Spectrograph Instrument
+          </li>
+          <li>
+            <a href="https://legacysurvey.org" target="_blank">DESI LS</a> - 
+            DESI Legacy Surveys
+          </li>
+        </ul>
+
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6 text-white showcase-img"
+        style="background-image: url('/assets/img/neural_network.jpg'); background-size: cover; background-position: center center;">
+      </div>
+      <div class="col-lg-6 my-auto showcase-text">
+        <h2>Nossos Objetivos</h2>
+        <p class="lead mb-2">
+          Usar técnicas de machine learning e deep learning em astronomia:
+
+          <ul class="pl-4 mb-0" style="font-size: 1.15rem;">
+            <li>Estimativas de redshifts fotométricos</li>
+            <li>Parâmetros da população estelar das galáxias</li>
+            <li>Busca de objetos especiais</li>
+            <li>Classificação de galáxias a partir de imagens</li>
+            <li>Deconvolução</li>
+          </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+<!-- <section style="background: rgb(241, 242, 243); padding: 5rem 0;">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-4 col-lg-3">
+        <img src="/assets/img/prp_logo.png" alt="" width="100%">
+      </div>
+      <div class="col-8 col-lg-9">
+        <p class="lead mb-0">
+          Projeto apoiado pela Pró-Reitoria de Pesquisa da USP no Edital de Apoio a Projetos que Façam Uso de Sistemas
+          Inteligentes
+        </p>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+
+<!--  include latest_posts.html  -->
+  </div>
+
+  <footer class="text-light">
+  <div class="container px-4 py-5 px-md-0">
+    <div class="row">
+      <div class="col-12 col-md-6 pr-lg-5">
+        <h6>SCALE</h6>
+        <p>
+          S-PLUS Clusters and Large-scale Environments
+        </p>
+
+        <h6 class="mt-4">Apoio</h6>
+        <ul class="list-unstyled list-inline footer-logos">
+          <li class="list-inline-item">
+            <a href="http://www.iag.usp.br">
+              <img class="hover-img" src="/assets/img/iag_logo.png" data-toggle="tooltip" height="42px" alt="IAG Logo"
+                title="Instituto de Astronomia, Geofísica e Ciências Atmosféricas">
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="http://prp.usp.br">
+              <img class="hover-img" src="/assets/img/prp_logo.png" data-toggle="tooltip" height="42px" alt="PRP Logo"
+                title="Pró Reitoria de Pesquisa">
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="http://usp.br">
+              <img class="hover-img" src="/assets/img/usp_logo.png" data-toggle="tooltip" height="42px" alt="USP Logo"
+                title="Universidade de São Paulo">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-4 col-md-3">
+        <h6>Explore</h6>
+        <ul class="list-unstyled">
+          
+          <li><a href="/">Home</a></li>
+          
+          <li><a href="/about/">About</a></li>
+          
+          <li><a href="/people/">People</a></li>
+          
+          <li><a href="/publications/">Publications</a></li>
+          
+          <li><a href="/data/">Data</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-8 col-md-3">
+        <h6>Contato</h6>
+        <p class="text-sm ">
+          IAG - Instituto de Astronomia, Geofísica e Ciências Atmosféricas <br>
+          Universidade de São Paulo <br>
+          Rua do Matão, 1226 <br>
+          Cidade Universitária <br>
+          São Paulo - SP <br>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid footer-line text-center">
+    <small>
+      &copy; 2023-2026 SCALE | 
+      Designed by <a href="https://natanael.net/">Natanael M. Cardoso</a> &bull; 
+      Powered by <a href="https://jekyllrb.com/">Jekyll</a><br />
+      Lastest build: 09/07/2026 12:03:03
+      
+      
+        [<a href="https://github.com/splus-scale/scale-website/commit/31d674d87385ed98606ae934688824b919ffcbef">31d674d8</a>] 
+        <a href="https://github.com/splus-scale/scale-website"><i class="fab fa-github"></i></a>
+      
+    </small>
+  </div>
+</footer>
+
+  <script 
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" 
+  crossorigin="anonymous">
+</script>
+
+<script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/js/all.min.js" 
+  integrity="sha512-6BTOlkauINO65nLhXhthZMtepgJSghyimIalb+crKRPhvhmsCdnIuGcVbR5/aQY2A+260iC1OPy1oCdB6pSSwQ==" 
+  crossorigin="anonymous" 
+  referrerpolicy="no-referrer">
+</script>
+
+<!-- <script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" 
+  async>
+</script> -->
+
+<script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.0.0/tex-mml-chtml.min.js" 
+  integrity="sha512-yxTB34XQUKlyuz73upeDrZ91/tbZW/YAURVWL3s+09bEWdmORQzUZwSKyBIRxSeHuSwh1aOKEffn2/D65kwyYg==" 
+  crossorigin="anonymous" 
+  referrerpolicy="no-referrer">
+</script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+<script src="/assets/js/app.js"></script>
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-63XMVEKF9E"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-63XMVEKF9E');
+  </script>
+
+</body>
+
+</html>

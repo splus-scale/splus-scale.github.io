@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  
+    <meta name="dc.identifier" content="10.1051/0004-6361/202556043" />
+    <meta name="citation_doi" content="10.1051/0004-6361/202556043" />
+    
+  
+
+  <link rel="icon" type="image/x-icon" href="https://splus-scale.github.io/assets/img/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://splus-scale.github.io/assets/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://splus-scale.github.io/assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://splus-scale.github.io/assets/img/favicon-16x16.png">
+  <!-- <link rel="manifest" href="/assets/img/site.webmanifest"> -->
+
+  <meta name="image" content="https://splus-scale.github.io/assets/img/scale_logo_sm.png" />
+  <meta name="og:image" content="https://splus-scale.github.io/assets/img/scale_logo_sm.png" />
+  <meta name="twitter:image" content="https://splus-scale.github.io/assets/img/scale_logo_sm.png" />
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies | SCALE</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="S-PLUS Clusters and Large-scale Environments" />
+<meta property="og:description" content="S-PLUS Clusters and Large-scale Environments" />
+<link rel="canonical" href="https://splus-scale.github.io/publications/doubrawa2025/" />
+<meta property="og:url" content="https://splus-scale.github.io/publications/doubrawa2025/" />
+<meta property="og:site_name" content="SCALE" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-21T00:00:00-03:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-07-21T00:00:00-03:00","datePublished":"2025-07-21T00:00:00-03:00","description":"S-PLUS Clusters and Large-scale Environments","headline":"SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies","mainEntityOfPage":{"@type":"WebPage","@id":"https://splus-scale.github.io/publications/doubrawa2025/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://splus-scale.github.io/assets/img/scale_logo_sm.png"}},"url":"https://splus-scale.github.io/publications/doubrawa2025/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <link rel="dns-prefetch" href="https://github.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link 
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
+    rel="stylesheet" 
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
+    crossorigin="anonymous">
+  
+  <link 
+    rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" 
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" 
+    crossorigin="anonymous" 
+    referrerpolicy="no-referrer">
+    
+  <link 
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" 
+    rel="stylesheet">
+  
+  <link 
+    rel="stylesheet" 
+    href="https://cdn.jsdelivr.net/npm/pygments-css@1.0.0/github.css">
+  
+  <link 
+    rel="stylesheet" 
+    type="text/css" 
+    href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css">
+
+  <link 
+    rel="stylesheet" 
+    type="text/css" 
+    href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+  
+  <link 
+    rel="stylesheet" 
+    href="https://splus-scale.github.io/assets/css/app.css?v=1783609382">
+</head>
+
+<body>
+  <nav class="navbar navbar-light bg-light static-top navbar-expand-lg py-3">
+  <div class="container">
+    <a class="navbar-brand w-600" href="/">
+      <!-- <img src="/assets/img/iag_logo_black.png" width="30" height="30" class="d-inline-block align-top" alt=""> -->
+      SCALE
+    </a>
+    <button 
+      class="navbar-toggler" 
+      type="button" 
+      data-bs-toggle="collapse" 
+      data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" 
+      aria-expanded="false" 
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ms-auto">
+        
+          
+          <li class="nav-item">
+            <a 
+              href="/"
+              class="nav-link
+                ">
+                Home
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/about/"
+              class="nav-link
+                ">
+                About
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/people/"
+              class="nav-link
+                ">
+                People
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/publications/"
+              class="nav-link
+                ">
+                Publications
+            </a>
+          </li>
+          
+          <li class="nav-item">
+            <a 
+              href="/data/"
+              class="nav-link
+                ">
+                Data
+            </a>
+          </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  <div class="site-wrapper">
+    
+
+
+<header class="masthead text-white text-shadow inner-shadow" 
+  style="background-image: url('/assets/img/authors_header_bg.jpg')" >
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-9">
+        
+        <h1 >Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies</h1>
+        
+
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container pt-3 pb-5 page-content font-serif">
+  <nav aria-label="breadcrumb">
+  <ol class="breadcrumb font-sans">
+    <li class="breadcrumb-item">
+      <a href="https://splus-scale.github.io">
+        home
+      </a>
+    </li>
+    <li class="breadcrumb-item">
+      <!-- TODO: improve this markup for nested collections, e.g., /blog/tag/:slug -->
+      <a href="https://splus-scale.github.io/publications">
+        publications
+      </a>
+    </li>
+    <li class="breadcrumb-item active" aria-current="page">
+      Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies
+    </li>
+  </ol>
+</nav>
+  
+  
+
+  
+
+  
+
+
+  <h1><i class="fa-regular fa-rectangle-list fa-sm"></i> Publication info</h1>
+  
+    <div>
+      <b>Title: </b> SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies
+    </div>
+  
+  
+  
+    <div class="mt-3">
+      <b>Authors: </b> L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono, F. R. Herpich, T. S. Gonçalves, A. Kanaan, T. Ribeiro, W. Schoenell
+
+    </div>
+  
+
+  
+    <div class="mt-3">
+      <b>Publication date: </b> 2025
+    </div>
+  
+
+  
+    <div class="mt-3">
+      <b>Journal: </b> Astronomy & Astrophysics
+    </div>
+  
+
+  
+  <div class="mt-3">
+    <b>Access: </b> 
+    
+      <a 
+        class="btn btn-outline-primary btn-sm font-sans me-2" 
+        href="https://www.aanda.org/articles/aa/pdf/2025/08/aa56043-25.pdf" 
+        target="_blank" 
+        role="button">
+        <i class="fa-regular fa-file-pdf"></i> PDF
+      </a>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+  
+
+
+
+
+  
+  
+    <h1><i class="fa-solid fa-book-open fa-sm"></i> Abstract</h1>
+    <div class="text-justify">
+      <p>Studies of large-scale structures in the Universe reveal that galaxy clusters form in regions of matter overdensity, at the intersection of the filamentary structures that comprise the cosmic web. In this process, satellite galaxies tend to spatially align with the major axis of the brightest cluster galaxy (BCG), a phenomenon influenced by both cluster-scale dynamics and the surrounding large-scale environment. In this study we investigated the alignment of satellite galaxies relative to the BCG position angle using photometric data from the fifth data release of the Southern Photometric Local Universe Survey (S-PLUS/DR5) to unveil how galaxies evolve under the influence of both local and global conditions.Methods. Using three complementary statistical tests, the Kuiper V, binomial, and Rao’s spacing tests, we explored how the alignment signal varies with BCG and cluster properties. Our sample includes 58 galaxy clusters with spectroscopically confirmed BCGs within the STRIPE-82 region, up to a redshift of z &lt; 0.12. The alignment strength is more pronounced for redder BCGs and brighter BCGs, with the most luminous BCGs presenting the strongest correlation with their satellite distributions. In addition, combining multiple properties, such as BCG colour and luminosity, does not further enhance the alignment signal, as the samples naturally favour BCGs with properties that maximise the effect. Beyond 3 R200, satellite colours become more evolved along the BCG major axis for the reddest BCGs, suggesting preprocessing within large-scale filaments. These findings are further evidence of the role of cluster-scale dynamics and large-scale structure in shaping galaxy alignments.</p>
+
+    </div>
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    <h1><i class="fa-brands fa-tex fa-sm"></i> Citation</h1>
+    
+<figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">Doubrawa2025</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies}</span><span class="p">,</span>
+  <span class="na">shorttitle</span> <span class="p">=</span> <span class="s">{ Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies (SCALE)}</span><span class="p">,</span>
+  <span class="na">language</span> <span class="p">=</span> <span class="s">{en}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{A\&amp;A}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, and others}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2025}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1051/0004-6361/202556043}</span><span class="p">,</span>
+  <span class="na">notes</span> <span class="p">=</span> <span class="s">{Published}</span>
+<span class="p">}</span></code></pre></figure>
+
+    <textarea class="d-none" id="bibtex-value">@article{Doubrawa2025,
+  title = {SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies},
+  shorttitle = { Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies (SCALE)},
+  language = {en},
+  journal = {A\&A},
+  author = {L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, and others},
+  year = {2025},
+  doi = {10.1051/0004-6361/202556043},
+  notes = {Published}
+}
+</textarea>
+    <button 
+      data-copy-element="#bibtex-value"
+      data-success="Citation successfully copied to clipboard"
+      data-error="An error occurred, please select the text and copy the reference manually"
+      type="button"
+      class="btn btn-outline-primary font-sans">
+      <i class="fa-regular fa-copy fa-sm me-1"></i> Copy citation to clipboard
+    </button>
+  
+
+
+
+
+
+
+  
+    <h1><i class="fa-solid fa-users fa-sm"></i> Related Members</h1>
+    
+      
+
+<a href="/authors/ldoubrawa/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="https://github.com/liadoubrawa.png?size=20" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    Lia Doubrawa
+  </span>
+</a>
+    
+      
+
+<a href="/authors/cmdeoliveira/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="/assets/profiles/cmdeoliveira.jpg" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    Claudia Mendes de Oliveira
+  </span>
+</a>
+    
+      
+
+<a href="/authors/lnakazono/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="https://github.com/marixko.png?size=20" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    Lilianne Nakazono
+  </span>
+</a>
+    
+      
+
+<a href="/authors/fherpich/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="https://www.gravatar.com/avatar/0cd66db0add1656138df4dcc92d8229f.jpg?s=20&d=identicon" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    Fabio R Herpich
+  </span>
+</a>
+    
+      
+
+<a href="/authors/akanaan/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="https://www.gravatar.com/avatar/762662133b13a8c90ebc1dd77893f07f.jpg?s=20&d=identicon" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    Antonio Kanaan
+  </span>
+</a>
+    
+      
+
+<a href="/authors/tribeiro/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="https://www.gravatar.com/avatar/c872d98e57ce245371a351462c944714.jpg?s=20&d=identicon" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    Tiago Ribeiro
+  </span>
+</a>
+    
+      
+
+<a href="/authors/wschoenell/" class="chip font-sans text-decoration-none me-1 mb-2">
+  
+
+
+
+
+
+<img 
+  src="https://www.gravatar.com/avatar/fd86676f6acd1c0dcab8ac4d1fb6619c.jpg?s=20&d=identicon" 
+  style="aspect-ratio: 1; object-fit: cover; border-radius: 50%;"
+  width="20" />
+<!-- class="rounded-circle" -->
+  <span class="ms-1 align-middle">
+    William Schoenell
+  </span>
+</a>
+    
+  
+  
+
+
+
+  
+</div>
+
+  </div>
+
+  <footer class="text-light">
+  <div class="container px-4 py-5 px-md-0">
+    <div class="row">
+      <div class="col-12 col-md-6 pr-lg-5">
+        <h6>SCALE</h6>
+        <p>
+          S-PLUS Clusters and Large-scale Environments
+        </p>
+
+        <h6 class="mt-4">Apoio</h6>
+        <ul class="list-unstyled list-inline footer-logos">
+          <li class="list-inline-item">
+            <a href="http://www.iag.usp.br">
+              <img class="hover-img" src="/assets/img/iag_logo.png" data-toggle="tooltip" height="42px" alt="IAG Logo"
+                title="Instituto de Astronomia, Geofísica e Ciências Atmosféricas">
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="http://prp.usp.br">
+              <img class="hover-img" src="/assets/img/prp_logo.png" data-toggle="tooltip" height="42px" alt="PRP Logo"
+                title="Pró Reitoria de Pesquisa">
+            </a>
+          </li>
+          <li class="list-inline-item">
+            <a href="http://usp.br">
+              <img class="hover-img" src="/assets/img/usp_logo.png" data-toggle="tooltip" height="42px" alt="USP Logo"
+                title="Universidade de São Paulo">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-4 col-md-3">
+        <h6>Explore</h6>
+        <ul class="list-unstyled">
+          
+          <li><a href="/">Home</a></li>
+          
+          <li><a href="/about/">About</a></li>
+          
+          <li><a href="/people/">People</a></li>
+          
+          <li><a href="/publications/">Publications</a></li>
+          
+          <li><a href="/data/">Data</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-8 col-md-3">
+        <h6>Contato</h6>
+        <p class="text-sm ">
+          IAG - Instituto de Astronomia, Geofísica e Ciências Atmosféricas <br>
+          Universidade de São Paulo <br>
+          Rua do Matão, 1226 <br>
+          Cidade Universitária <br>
+          São Paulo - SP <br>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid footer-line text-center">
+    <small>
+      &copy; 2023-2026 SCALE | 
+      Designed by <a href="https://natanael.net/">Natanael M. Cardoso</a> &bull; 
+      Powered by <a href="https://jekyllrb.com/">Jekyll</a><br />
+      Lastest build: 09/07/2026 12:03:03
+      
+      
+        [<a href="https://github.com/splus-scale/scale-website/commit/31d674d87385ed98606ae934688824b919ffcbef">31d674d8</a>] 
+        <a href="https://github.com/splus-scale/scale-website"><i class="fab fa-github"></i></a>
+      
+    </small>
+  </div>
+</footer>
+
+  <script 
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" 
+  crossorigin="anonymous">
+</script>
+
+<script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/js/all.min.js" 
+  integrity="sha512-6BTOlkauINO65nLhXhthZMtepgJSghyimIalb+crKRPhvhmsCdnIuGcVbR5/aQY2A+260iC1OPy1oCdB6pSSwQ==" 
+  crossorigin="anonymous" 
+  referrerpolicy="no-referrer">
+</script>
+
+<!-- <script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" 
+  async>
+</script> -->
+
+<script 
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/4.0.0/tex-mml-chtml.min.js" 
+  integrity="sha512-yxTB34XQUKlyuz73upeDrZ91/tbZW/YAURVWL3s+09bEWdmORQzUZwSKyBIRxSeHuSwh1aOKEffn2/D65kwyYg==" 
+  crossorigin="anonymous" 
+  referrerpolicy="no-referrer">
+</script>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
+<script src="/assets/js/app.js"></script>
+
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-63XMVEKF9E"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-63XMVEKF9E');
+  </script>
+
+</body>
+
+</html>
