@@ -1,0 +1,2024 @@
+# SCALE
+
+URL: https://splus-scale.github.io
+
+## About the project
+
+URL: https://splus-scale.github.io
+
+SCALE studies galaxy clusters, groups and their large-scale environments with the 12-band photometry of S-PLUS.
+
+![](/_astro/scale-logo.BDDNp4yc_Z2do8hL.webp)
+
+## About the project
+
+S-PLUS Clusters/Groups and their Large-scale Environments (SCALE) explores how galaxies grow, evolve, and interact within clusters, groups, and the vast cosmic web that connects them. SCALE combines 12-filter optical data with public spectroscopy and high-resolution imaging to reveal the structure and history of galaxies, from dense cluster cores to their outermost regions, extending up to five times the cluster's virial radius.
+
+[More info→](/about/)
+
+* * *
+
+## Research focus
+
+-   [
+    
+    ![](/_astro/focus-catalogues.BEjKWFsc_Z1WDihW.webp)
+    
+    Cluster & group catalogues
+    
+    ](/publications/2026/mendes-de-oliveira/)
+-   [
+    
+    ![](/_astro/focus-membership.q-QNWv-M_2821ws.webp)
+    
+    Photometric membership
+    
+    ](/publications/2026/mendes-de-oliveira/)
+-   [
+    
+    ![](/_astro/focus-cosmic-web.C_seKjWZ_2ftG76.webp)
+    
+    Substructure & the cosmic web
+    
+    ](/publications/2026/mendes-de-oliveira/)
+-   [
+    
+    ![](/_astro/focus-galaxy-evolution.C-IPXrLA_R3ayk.webp)
+    
+    Galaxy evolution in dense environments
+    
+    ](/publications/2026/mendes-de-oliveira/)
+
+* * *
+
+## S-PLUS
+
+The Southern Photometric Local Universe Survey
+
+[More info→](/about/)
+
+* * *
+
+1.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    ### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    ### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+3.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    ### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+* * *
+
+-   [![](/_astro/cmdeoliveira.D1liiEt__2wSS2A.webp)Claudia Mendes de Oliveira](/people/cmdeoliveira/)
+-   [APA P Costa](/people/apcosta/)
+-   [![](/_astro/amanda-lopes_1Dsf7P.webp)Amanda R Lopes](/people/arlopes/)
+-   [AVAnalia V Smith Castelli](/people/avscastelli/)
+-   [ALAndre L B Ribeiro](/people/albribeiro/)
+-   [![](/_astro/ackrabbe.BWfty2rz_Z2gHaFb.webp)Angela C Krabbe](/people/ackrabbe/)
+-   [AKAntonio Kanaan](/people/akanaan/)
+-   [CLCatarina Lobo](/people/clobo/)
+-   [CLCiria Lima-Dias](/people/climadias/)
+-   [![](/_astro/dolaver_EbTaS.webp)Daniela E Olave-Rojas](/people/deolaverojas/)
+-   [ESEduardo S Cypriano](/people/escypriano/)
+-   [EREleazar R Carrasco](/people/ecarrasco/)
+-   [![](/_astro/ErikVini_2ldcft.webp)Erik V Lima](/people/evlima/)
+-   [FRFabio R Herpich](/people/fherpich/)
+-   [FAFelipe Almeida-Fernandes](/people/falmeidafernandes/)
+-   [![](/_astro/gmontaguth_bX1dx.webp)Gissel P Montaguth](/people/gpmontaguth/)
+-   [![](/_astro/schwarzam_Z5YGcS.webp)Gustavo Oliveira Schwarz](/people/goliveiraschwarz/)
+-   [![](/_astro/lsodrejr.7PPp6axe_NVOkV.webp)Laerte Sodre Jr](/people/lsodrejr/)
+-   [![](/_astro/liadoubrawa_xsFJJ.webp)Lia Doubrawa](/people/ldoubrawa/)
+-   [![](/_astro/marixko_1r3dFT.webp)Lilianne Nakazono](/people/lnakazono/)
+-   [MFM Fonseca-Faria](/people/mfonsecafaria/)
+-   [MSMaiara S Carvalho](/people/mscarvalho/)
+-   [![](/_astro/nmcardoso_Z1nizht.webp)Natanael M Cardoso](/people/nmcardoso/)
+-   [PAPaulo A A Lopes](/people/paalopes/)
+-   [RDRicardo Demarco](/people/rdemarco/)
+-   [RCRoberto Cid Fernandes](/people/rcidfernandes/)
+-   [RHRodrigo Haack](/people/rhaack/)
+-   [STSergio Torres-Flores](/people/storresflores/)
+-   [TRTiago Ribeiro](/people/tribeiro/)
+-   [WSWilliam Schoenell](/people/wschoenell/)
+
+---
+
+## About
+
+URL: https://splus-scale.github.io/about
+
+The Southern Photometric Local Universe Survey, and the SCALE project built on it.
+
+## The Survey[#](#the-survey)
+
+The Southern Photometric Local Universe Survey (S-PLUS) ([Mendes de Oliveira et al., 2019](#bib-splus)) is observing over 9,000 square degrees of the southern sky with the 0.8 m T80-South telescope at Cerro Tololo Inter-American Observatory (CTIO) in Chile. With sharp 0.55 arcsec/pixel resolution and typical depths of 20-21 AB mag, its 12-band Javalambre filter system ([Cenarro et al., 2019](#bib-jplus)) captures both broad and narrow spectral features, offering a unique window into the physical processes shaping galaxies across cosmic time.
+
+## The Project[#](#the-project)
+
+S-PLUS Clusters/Groups and their Large-scale Environments (SCALE; [Mendes de Oliveira et al. 2026](/publications/2026/mendes-de-oliveira/)) explores how galaxies grow, evolve, and interact within clusters, groups, and the vast cosmic web that connects them. Using images from the Southern Photometric Local Universe Survey (S-PLUS), SCALE combines 12-filter optical data with public spectroscopy and high-resolution imaging to reveal the structure and history of galaxies, from dense cluster cores to their outermost regions, extending up to five times the cluster’s virial radius.
+
+## References[#](#references)
+
+Cenarro, A. J., Moles, M., Cristóbal-Hornillos, D., Marín-Franch, A., Ederoclite, A., Varela, J., López-Sanjuan, C., Hernández-Monteagudo, C., Angulo, R. E., Vázquez Ramió, H., Viironen, K., Bonoli, S., Orsi, A. A., Hurier, G., San Roman, I., Greisel, N., Vilella-Rojo, G., Díaz-García, L. A., Logroño-García, R., … Vilchez, J. M. (2019). J-PLUS: The Javalambre Photometric Local Universe Survey. _Astronomy & Astrophysics_, _622_, A176. https://doi.org/10.1051/0004-6361/201833036
+
+Mendes de Oliveira, C., Ribeiro, T., Schoenell, W., Kanaan, A., Overzier, R. A., Molino, A., Sampedro, L., Coelho, P., Barbosa, C. E., Cortesi, A., Costa-Duarte, M. V., Herpich, F. R., Hernandez-Jimenez, J. A., Placco, V. M., Xavier, H. S., Abramo, L. R., Saito, R. K., Chies-Santos, A. L., Ederoclite, A., … Zaritsky, D. (2019). The Southern Photometric Local Universe Survey (S-PLUS): improved SEDs, morphologies, and redshifts with 12 optical filters. _Monthly Notices of the Royal Astronomical Society_, _489_(1), 241–267. https://doi.org/10.1093/mnras/stz1985
+
+---
+
+## areas
+
+URL: https://splus-scale.github.io/areas
+
+S-PLUS Clusters and Large-scale Environments
+
+
+
+---
+
+## Category
+
+URL: https://splus-scale.github.io/category
+
+S-PLUS Clusters and Large-scale Environments
+
+-   [Journal2](/category/journal/)
+-   [Research3](/category/research/)
+
+---
+
+## Journal
+
+URL: https://splus-scale.github.io/category/journal
+
+S-PLUS Clusters and Large-scale Environments
+
+1.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/venues/aa/)IF6.1Journal Impact FactorJournal Impact Factor
+    
+    Journal
+    
+    ## [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 publications
+    
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/venues/apj/)IF5.7Journal Impact FactorJournal Impact Factor
+    
+    Journal
+    
+    ## [The Astrophysical Journal](/venues/apj/)
+    
+    1 publication
+
+---
+
+## https://splus-scale.github.io/category/journal/
+
+URL: https://splus-scale.github.io/category/journal/page/1
+
+https://splus-scale.github.io/category/journal/
+
+---
+
+## Research article
+
+URL: https://splus-scale.github.io/category/research
+
+S-PLUS Clusters and Large-scale Environments
+
+## 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    ### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    ### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+## 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    ### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/category/research/
+
+URL: https://splus-scale.github.io/category/research/page/1
+
+https://splus-scale.github.io/category/research/
+
+---
+
+## Data
+
+URL: https://splus-scale.github.io/data
+
+How the group's public datasets are published, and how to request the rest.
+
+## Data access info[#](#data-access-info)
+
+All public datasets produced by this research group are indexed on this website. Each published article is associated with a dedicated page under the [Publications](/publications/) section. For organizational purposes, the public data corresponding to each publication are made available directly on the respective publication page.
+
+Requests for access to unpublished data should be directed to the corresponding author of the article, using the email address provided.
+
+---
+
+## People
+
+URL: https://splus-scale.github.io/people
+
+S-PLUS Clusters and Large-scale Environments
+
+## Principal investigator
+
+[![](/_astro/cmdeoliveira.D1liiEt__20hvYs.webp)
+
+### Claudia Mendes de Oliveira
+
+
+
+](/people/cmdeoliveira/)
+
+## Member
+
+[AP
+
+### A P Costa
+
+
+
+](/people/apcosta/)[![](/_astro/amanda-lopes_1vhlsX.webp)
+
+### Amanda R Lopes
+
+
+
+](/people/arlopes/)[AV
+
+### Analia V Smith Castelli
+
+
+
+](/people/avscastelli/)[AL
+
+### Andre L B Ribeiro
+
+
+
+](/people/albribeiro/)[![](/_astro/ackrabbe.BWfty2rz_Z1OQFuf.webp)
+
+### Angela C Krabbe
+
+
+
+](/people/ackrabbe/)[AK
+
+### Antonio Kanaan
+
+
+
+](/people/akanaan/)[CL
+
+### Catarina Lobo
+
+
+
+](/people/clobo/)[CL
+
+### Ciria Lima-Dias
+
+
+
+](/people/climadias/)[![](/_astro/dolaver_1MpAsa.webp)
+
+### Daniela E Olave-Rojas
+
+
+
+](/people/deolaverojas/)[ES
+
+### Eduardo S Cypriano
+
+
+
+](/people/escypriano/)[ER
+
+### Eleazar R Carrasco
+
+
+
+](/people/ecarrasco/)[![](/_astro/ErikVini_1QIUYX.webp)
+
+### Erik V Lima
+
+
+
+](/people/evlima/)[FR
+
+### Fabio R Herpich
+
+
+
+](/people/fherpich/)[FA
+
+### Felipe Almeida-Fernandes
+
+
+
+](/people/falmeidafernandes/)[![](/_astro/gmontaguth_1tLtrI.webp)
+
+### Gissel P Montaguth
+
+
+
+](/people/gpmontaguth/)[![](/_astro/schwarzam_6FJ3y.webp)
+
+### Gustavo Oliveira Schwarz
+
+
+
+](/people/goliveiraschwarz/)[![](/_astro/lsodrejr.7PPp6axe_Z1dcQ07.webp)
+
+### Laerte Sodre Jr
+
+
+
+](/people/lsodrejr/)[![](/_astro/liadoubrawa_Z91QSK.webp)
+
+### Lia Doubrawa
+
+
+
+](/people/ldoubrawa/)[![](/_astro/marixko_Z2uUdPK.webp)
+
+### Lilianne Nakazono
+
+
+
+](/people/lnakazono/)[MF
+
+### M Fonseca-Faria
+
+
+
+](/people/mfonsecafaria/)[MS
+
+### Maiara S Carvalho
+
+
+
+](/people/mscarvalho/)[![](/_astro/nmcardoso_Z1aC912.webp)
+
+### Natanael M Cardoso
+
+
+
+](/people/nmcardoso/)[PA
+
+### Paulo A A Lopes
+
+
+
+](/people/paalopes/)[RD
+
+### Ricardo Demarco
+
+
+
+](/people/rdemarco/)[RC
+
+### Roberto Cid Fernandes
+
+
+
+](/people/rcidfernandes/)[RH
+
+### Rodrigo Haack
+
+
+
+](/people/rhaack/)[ST
+
+### Sergio Torres-Flores
+
+
+
+](/people/storresflores/)[TR
+
+### Tiago Ribeiro
+
+
+
+](/people/tribeiro/)[WS
+
+### William Schoenell
+
+
+
+](/people/wschoenell/)
+
+---
+
+## Angela C Krabbe
+
+URL: https://splus-scale.github.io/people/ackrabbe
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/ackrabbe/
+
+URL: https://splus-scale.github.io/people/ackrabbe/page/1
+
+https://splus-scale.github.io/people/ackrabbe/
+
+---
+
+## Antonio Kanaan
+
+URL: https://splus-scale.github.io/people/akanaan
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/akanaan/
+
+URL: https://splus-scale.github.io/people/akanaan/page/1
+
+https://splus-scale.github.io/people/akanaan/
+
+---
+
+## Andre L B Ribeiro
+
+URL: https://splus-scale.github.io/people/albribeiro
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/albribeiro/
+
+URL: https://splus-scale.github.io/people/albribeiro/page/1
+
+https://splus-scale.github.io/people/albribeiro/
+
+---
+
+## A P Costa
+
+URL: https://splus-scale.github.io/people/apcosta
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/apcosta/
+
+URL: https://splus-scale.github.io/people/apcosta/page/1
+
+https://splus-scale.github.io/people/apcosta/
+
+---
+
+## Amanda R Lopes
+
+URL: https://splus-scale.github.io/people/arlopes
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/arlopes/
+
+URL: https://splus-scale.github.io/people/arlopes/page/1
+
+https://splus-scale.github.io/people/arlopes/
+
+---
+
+## Analia V Smith Castelli
+
+URL: https://splus-scale.github.io/people/avscastelli
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/avscastelli/
+
+URL: https://splus-scale.github.io/people/avscastelli/page/1
+
+https://splus-scale.github.io/people/avscastelli/
+
+---
+
+## Ciria Lima-Dias
+
+URL: https://splus-scale.github.io/people/climadias
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/climadias/
+
+URL: https://splus-scale.github.io/people/climadias/page/1
+
+https://splus-scale.github.io/people/climadias/
+
+---
+
+## Catarina Lobo
+
+URL: https://splus-scale.github.io/people/clobo
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/clobo/
+
+URL: https://splus-scale.github.io/people/clobo/page/1
+
+https://splus-scale.github.io/people/clobo/
+
+---
+
+## Claudia Mendes de Oliveira
+
+URL: https://splus-scale.github.io/people/cmdeoliveira
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/cmdeoliveira/
+
+URL: https://splus-scale.github.io/people/cmdeoliveira/page/1
+
+https://splus-scale.github.io/people/cmdeoliveira/
+
+---
+
+## Daniela E Olave-Rojas
+
+URL: https://splus-scale.github.io/people/deolaverojas
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/deolaverojas/
+
+URL: https://splus-scale.github.io/people/deolaverojas/page/1
+
+https://splus-scale.github.io/people/deolaverojas/
+
+---
+
+## Eleazar R Carrasco
+
+URL: https://splus-scale.github.io/people/ecarrasco
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/ecarrasco/
+
+URL: https://splus-scale.github.io/people/ecarrasco/page/1
+
+https://splus-scale.github.io/people/ecarrasco/
+
+---
+
+## Eduardo S Cypriano
+
+URL: https://splus-scale.github.io/people/escypriano
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/escypriano/
+
+URL: https://splus-scale.github.io/people/escypriano/page/1
+
+https://splus-scale.github.io/people/escypriano/
+
+---
+
+## Erik V Lima
+
+URL: https://splus-scale.github.io/people/evlima
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/evlima/
+
+URL: https://splus-scale.github.io/people/evlima/page/1
+
+https://splus-scale.github.io/people/evlima/
+
+---
+
+## Felipe Almeida-Fernandes
+
+URL: https://splus-scale.github.io/people/falmeidafernandes
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/falmeidafernandes/
+
+URL: https://splus-scale.github.io/people/falmeidafernandes/page/1
+
+https://splus-scale.github.io/people/falmeidafernandes/
+
+---
+
+## Fabio R Herpich
+
+URL: https://splus-scale.github.io/people/fherpich
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+3.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/fherpich/
+
+URL: https://splus-scale.github.io/people/fherpich/page/1
+
+https://splus-scale.github.io/people/fherpich/
+
+---
+
+## Gustavo Oliveira Schwarz
+
+URL: https://splus-scale.github.io/people/goliveiraschwarz
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/goliveiraschwarz/
+
+URL: https://splus-scale.github.io/people/goliveiraschwarz/page/1
+
+https://splus-scale.github.io/people/goliveiraschwarz/
+
+---
+
+## Gissel P Montaguth
+
+URL: https://splus-scale.github.io/people/gpmontaguth
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/gpmontaguth/
+
+URL: https://splus-scale.github.io/people/gpmontaguth/page/1
+
+https://splus-scale.github.io/people/gpmontaguth/
+
+---
+
+## Lia Doubrawa
+
+URL: https://splus-scale.github.io/people/ldoubrawa
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/ldoubrawa/
+
+URL: https://splus-scale.github.io/people/ldoubrawa/page/1
+
+https://splus-scale.github.io/people/ldoubrawa/
+
+---
+
+## Lilianne Nakazono
+
+URL: https://splus-scale.github.io/people/lnakazono
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/lnakazono/
+
+URL: https://splus-scale.github.io/people/lnakazono/page/1
+
+https://splus-scale.github.io/people/lnakazono/
+
+---
+
+## Laerte Sodre Jr
+
+URL: https://splus-scale.github.io/people/lsodrejr
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/lsodrejr/
+
+URL: https://splus-scale.github.io/people/lsodrejr/page/1
+
+https://splus-scale.github.io/people/lsodrejr/
+
+---
+
+## M Fonseca-Faria
+
+URL: https://splus-scale.github.io/people/mfonsecafaria
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/mfonsecafaria/
+
+URL: https://splus-scale.github.io/people/mfonsecafaria/page/1
+
+https://splus-scale.github.io/people/mfonsecafaria/
+
+---
+
+## Maiara S Carvalho
+
+URL: https://splus-scale.github.io/people/mscarvalho
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/mscarvalho/
+
+URL: https://splus-scale.github.io/people/mscarvalho/page/1
+
+https://splus-scale.github.io/people/mscarvalho/
+
+---
+
+## Natanael M Cardoso
+
+URL: https://splus-scale.github.io/people/nmcardoso
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/nmcardoso/
+
+URL: https://splus-scale.github.io/people/nmcardoso/page/1
+
+https://splus-scale.github.io/people/nmcardoso/
+
+---
+
+## Paulo A A Lopes
+
+URL: https://splus-scale.github.io/people/paalopes
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/paalopes/
+
+URL: https://splus-scale.github.io/people/paalopes/page/1
+
+https://splus-scale.github.io/people/paalopes/
+
+---
+
+## Roberto Cid Fernandes
+
+URL: https://splus-scale.github.io/people/rcidfernandes
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/rcidfernandes/
+
+URL: https://splus-scale.github.io/people/rcidfernandes/page/1
+
+https://splus-scale.github.io/people/rcidfernandes/
+
+---
+
+## Ricardo Demarco
+
+URL: https://splus-scale.github.io/people/rdemarco
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/rdemarco/
+
+URL: https://splus-scale.github.io/people/rdemarco/page/1
+
+https://splus-scale.github.io/people/rdemarco/
+
+---
+
+## Rodrigo Haack
+
+URL: https://splus-scale.github.io/people/rhaack
+
+S-PLUS Clusters and Large-scale Environments
+
+
+
+---
+
+## https://splus-scale.github.io/people/rhaack/
+
+URL: https://splus-scale.github.io/people/rhaack/page/1
+
+https://splus-scale.github.io/people/rhaack/
+
+---
+
+## Sergio Torres-Flores
+
+URL: https://splus-scale.github.io/people/storresflores
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/storresflores/
+
+URL: https://splus-scale.github.io/people/storresflores/page/1
+
+https://splus-scale.github.io/people/storresflores/
+
+---
+
+## Tiago Ribeiro
+
+URL: https://splus-scale.github.io/people/tribeiro
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/tribeiro/
+
+URL: https://splus-scale.github.io/people/tribeiro/page/1
+
+https://splus-scale.github.io/people/tribeiro/
+
+---
+
+## William Schoenell
+
+URL: https://splus-scale.github.io/people/wschoenell
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+### 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## https://splus-scale.github.io/people/wschoenell/
+
+URL: https://splus-scale.github.io/people/wschoenell/page/1
+
+https://splus-scale.github.io/people/wschoenell/
+
+---
+
+## Publications
+
+URL: https://splus-scale.github.io/publications
+
+S-PLUS Clusters and Large-scale Environments
+
+## 20262 publications
+
+2.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2026/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    ### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+3.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/publications/2026/mendes-de-oliveira/)IF5.7Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    ### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+    
+    [The Astrophysical Journal](/venues/apj/)
+    
+    1 citationCitations recorded in OpenAlexCitations recorded in OpenAlex
+    
+
+## 20251 publication
+
+4.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/publications/2025/doubrawa/)IF6.1Journal Impact Factor from the Journal Citation Reports 2025Journal Impact Factor from the Journal Citation Reports 2025
+    
+    ### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+    
+    [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 citationsCitations recorded in OpenAlexCitations recorded in OpenAlex
+
+---
+
+## SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies
+
+URL: https://splus-scale.github.io/publications/2025/doubrawa
+
+Astronomy & Astrophysics (2025)
+
+## Abstract
+
+Studies of large-scale structures in the Universe reveal that galaxy clusters form in regions of matter overdensity, at the intersection of the filamentary structures that comprise the cosmic web. In this process, satellite galaxies tend to spatially align with the major axis of the brightest cluster galaxy (BCG), a phenomenon influenced by both cluster-scale dynamics and the surrounding large-scale environment. In this study we investigated the alignment of satellite galaxies relative to the BCG position angle using photometric data from the fifth data release of the Southern Photometric Local Universe Survey (S-PLUS/DR5) to unveil how galaxies evolve under the influence of both local and global conditions. Using three complementary statistical tests, the Kuiper V, binomial, and Rao’s spacing tests, we explored how the alignment signal varies with BCG and cluster properties. Our sample includes 58 galaxy clusters with spectroscopically confirmed BCGs within the STRIPE-82 region, up to a redshift of z < 0.12. The alignment strength is more pronounced for redder BCGs and brighter BCGs, with the most luminous BCGs presenting the strongest correlation with their satellite distributions. In addition, combining multiple properties, such as BCG colour and luminosity, does not further enhance the alignment signal, as the samples naturally favour BCGs with properties that maximise the effect. Beyond 3 R200, satellite colours become more evolved along the BCG major axis for the reddest BCGs, suggesting preprocessing within large-scale filaments. These findings are further evidence of the role of cluster-scale dynamics and large-scale structure in shaping galaxy alignments.
+
+## Citation
+
+reference.bib
+
+CopyDownload
+
+@article{Doubrawa\_2025,
+  author    = {Doubrawa, L. and Smith, R. and Mendes de Oliveira, C. and O’Mill, A. L. and Nakazono, L. and Herpich, F. R. and Gonçalves, T. S. and Kanaan, A. and Ribeiro, T. and Schoenell, W.},
+  doi       = {10.1051/0004-6361/202556043},
+  issn      = {1432-0746},
+  journal   = {Astronomy &amp; Astrophysics},
+  month     = {August},
+  pages     = {A264},
+  publisher = {EDP Sciences},
+  title     = {SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies},
+  url       = {http://dx.doi.org/10.1051/0004-6361/202556043},
+  volume    = {700},
+  year      = {2025}
+}
+
+* * *
+
+* * *
+
+[
+
+![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)
+
+Research article
+
+### S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups
+
+_A&A_ (2026)
+
+
+
+](/publications/2026/doubrawa/)
+
+[
+
+![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)
+
+Research article
+
+### S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038
+
+_ApJ_ (2026)
+
+
+
+](/publications/2026/mendes-de-oliveira/)
+
+---
+
+## S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups
+
+URL: https://splus-scale.github.io/publications/2026/doubrawa
+
+Astronomy & Astrophysics (2026)
+
+## Abstract
+
+We present the construction and characterization of a multi-wavelength catalog of galaxy groups and clusters by matching optical detections from the Southern Photometric Local Universe Survey (S-PLUS) with extended X-ray emission from the first eROSITA all-sky survey data release (eRASS1). We employ a probabilistic matching framework, based on the modified Hausdorff distance, to associate galaxy systems identified by the PZWav cluster finder and characterized by the AME membership estimator with X-ray surface brightness contours. This method explicitly accounts for the photometric redshift probability distribution of galaxies and allows us to explore the critical trade-off between catalog completeness and purity. We investigate how the matched sample changes with different optical selection depths, defined by absolute magnitude cuts of $M\_r$ < -18.5, -19, -19.5, and -20 sampling redshifts within 0.08 < z < 0.25, and across purity levels of 80%, 90%, and 95%. We find that fainter optical cuts enhance the recovery of low-mass, low-luminosity groups, while brighter cuts favor more massive clusters and increase the effective survey volume at higher redshifts. Stricter purity requirements reduce contamination but systematically lower completeness, particularly for low-luminosity systems. The derived X-ray luminosity functions agree well with previous determinations, and the logN-logS distributions confirm the high recovery rate of luminous clusters. Comparisons with the redMaPPer cluster catalog validate our approach, showing consistent trends and significant overlap, while our method offers improved completeness at the group scale. This work demonstrates a robust, flexible methodology for creating reliable multi-wavelength cluster catalogs, essential for cosmological studies and investigations of galaxy evolution in dense environments.
+
+## Citation
+
+reference.bib
+
+CopyDownload
+
+@article{Doubrawa2026,
+  title = {S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups},
+  shorttitle = {PZWav versus redMaPPer identification of eRosita groups (SCALE)},
+  language = {en},
+  journal = {A\\&A},
+  author = {Doubrawa, L. and Finoguenov, A. and Cypriano, E. S. and Mendes de Oliveira, C. and others},
+  year = {2026},
+  note = {Accepted}
+}
+
+* * *
+
+* * *
+
+[
+
+![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)
+
+Research article
+
+### S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038
+
+_ApJ_ (2026)
+
+
+
+](/publications/2026/mendes-de-oliveira/)
+
+[
+
+![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)
+
+Research article
+
+### SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies
+
+_A&A_ (2025)
+
+
+
+](/publications/2025/doubrawa/)
+
+---
+
+## S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038
+
+URL: https://splus-scale.github.io/publications/2026/mendes-de-oliveira
+
+The Astrophysical Journal (2026)
+
+## Abstract
+
+Within the framework of the Southern Photometric Local Universe Survey (S-PLUS), we introduce **S**\-PLUS **C**lusters **A**nd **L**arge-scale **E**nvironments (SCALE), a project dedicated to the study of galaxy clusters, groups, and their environments using 12-band photometry of S-PLUS combined with spectroscopic and photometric data from the literature. In this first paper, we present a catalog of 83 previously known systems in the redshift range $0.008 \\leq z\_{\\rm spec} \\leq 0.1$, for which we derive $R\_{200}$, $M\_{200}$, and velocity dispersions. Spectroscopic members are selected and matched with S-PLUS photometric redshifts (photo-$z$s). We find excellent agreement between literature spectroscopic redshifts (spec-$z$s) and S-PLUS photometric redshifts (photo-$z$s), demonstrating the potential of the latter for cluster and group membership determination. As a proof of concept, we obtain photometric memberships for Abell 4038 using the Reliable Photometric Membership technique. A two- and three-dimensional analysis of the region within $10 h^{-1}$ Mpc ($10\\times R\_{200}$) from the center of Abell 4038 reveals about a dozen substructures including two additional clusters within $1.3\\times R\_{200}$ (Abell 4038B and Abell 4049). A color–luminosity segregation analysis shows that more luminous (less luminous) galaxies are redder (bluer), as expected. Low-concentration galaxies ($C \\leq 2.5$) exhibit a weaker color–luminosity dependence, compared to higher-concentration ones, indicating mass-dependent evolutionary pathways that challenge a simple morphology–color dichotomy, with low-luminosity galaxies presenting bluer colors largely independent of concentration. The SCALE catalog provides a valuable basis for future studies of large-scale structures and their connection to galaxy evolution.
+
+## Public catalog documentation[#](#public-catalog-documentation)
+
+### Table 1[#](#table-1)
+
+A digital version of Table 1 from the published article is provided to facilitate data analysis. Table 1 presents a summary of the 83 SCALE systems, with each row corresponding to an individual cluster and reporting aggregated cluster properties. The table includes the principal quantities derived in this work, such as $R\_{200}$, $M\_{200}$, and $\\sigma\_{cl}$.
+
+| No. | Unit | Column | Description |
+| --- | --- | --- | --- |
+| 1 |  | cluster | Name of the cluster/group |
+| 2 | deg | ra | Central right ascension of the cluster/group (J2000) |
+| 3 | deg | dec | Central declination of the cluster/group (J2000) |
+| 4 |  | redshift | Cluster/group redshift |
+| 5 | km/s | sigma_cluster | Cluster/group velocity dispersion |
+| 6 | Mpc | R200 | Virial radius of the cluster/group |
+| 7 | 1014\(M_\odot\) | M200 | Cluster/group mass enclosed within R200 |
+| 8 |  | Ntot | Total number of galaxies identified as cluster/group members |
+| 9 |  | N200 | Number of cluster/group member galaxies within R200 |
+| 10 |  | s | The offset subtracted from the photometric redshifts of cluster members/interlopers (Table 2) to align the photometric-redshift distribution with the spectroscopic-redshift distribution (see Fig. 2) |
+
+### Table 2[#](#table-2)
+
+Table 2 is provided as a digital asset accompanying this work and contains the photometric and spectroscopic measurements, as well as the quantities derived in this study, for each galaxy (cluster member or interloper) associated with the 83 SCALE systems.
+
+| No. | Unit | Column name | Description |
+| --- | --- | --- | --- |
+| 1 |  | cluster | Cluster or group identifier |
+| 2 | deg | ra | Right Ascension (J2000) in decimal degrees |
+| 3 | deg | dec | Declination (J2000) in decimal degrees |
+| 4 |  | flag_member | Membership flag (0=member, 1=interloper) |
+| 5 | km/s | velocity | Velocity derived from spectroscopic redshift |
+| 6 | km/s | velocity_err | Velocity error |
+| 7 | km/s | velocity_offset | Velocity difference relative to cluster central velocity |
+| 8 | deg | dist_proj | Sky projected angular distance between the object and the corresponding cluster center |
+| 9 | Mpc | dist | Linear distance between the object and the corresponding cluster center |
+| 10 |  | dist_r200 | Linear clustercentric distance to the object normalized by the corresponding cluster's virial radius (R200) |
+| 11 |  | sp_prob_gal | S-PLUS DR5 Probability of the object being a galaxy[^nakazono2021] |
+| 12 | deg | sp_A | Semi-major axis of the object's light distribution, corresponding to its maximum spatial dispersion |
+| 13 | deg | sp_B | Semi-minor axis of the object's light distribution, corresponding to its minimum spatial dispersion |
+| 14 | deg | sp_PA | S-PLUS DR5 position angle (counter-clockwise / World-x) |
+| 15 |  | sp_ellipticity | Ellipticity (A_IMAGE / B_IMAGE) |
+| 16 | deg | sp_radius_petro | S-PLUS DR5 petrosian aperture radius |
+| 17 | deg | sp_radius_20 | Radius enclosing 20% of the total flux |
+| 18 | deg | sp_radius_50 | Radius enclosing 50% of the total flux |
+| 19 | deg | sp_radius_90 | Radius enclosing 90% of the total flux |
+| 20 | mag/arcsec2 | sp_mu_max_g | Instrumental peak surface brightness above background in g |
+| 21 | mag/arcsec2 | sp_mu_max_r | Instrumental peak surface brightness above background in r |
+| 22 |  | sp_background_g | Instrumental background at centroid position in g |
+| 23 |  | sp_background_r | Instrumental background at centroid position in r |
+| 24 |  | sp_s2n_g_auto | Signal-to-noise ratio of g (auto) |
+| 25 |  | sp_s2n_r_auto | Signal-to-noise ratio of r (auto) |
+| 26 | mag | sp_mag_u_auto | S-PLUS DR5 magnitude in u band with auto aperture |
+| 27 | mag | sp_mag_g_auto | S-PLUS DR5 magnitude in g band with auto aperture |
+| 28 | mag | sp_mag_r_auto | S-PLUS DR5 magnitude in r band with auto aperture |
+| 29 | mag | sp_mag_i_auto | S-PLUS DR5 magnitude in i band with auto aperture |
+| 30 | mag | sp_mag_z_auto | S-PLUS DR5 magnitude in z band with auto aperture |
+| 31 | mag | sp_mag_F378_auto | S-PLUS DR5 magnitude in F378 band (Balmer jump / [OII]) with auto aperture |
+| 32 | mag | sp_mag_F395_auto | S-PLUS DR5 magnitude in F395 band (Ca H + K) with auto aperture |
+| 33 | mag | sp_mag_F410_auto | S-PLUS DR5 magnitude in F410 band (H\(\delta\)) with auto aperture |
+| 34 | mag | sp_mag_F430_auto | S-PLUS DR5 magnitude in F430 band (G band) with auto aperture |
+| 35 | mag | sp_mag_F515_auto | S-PLUS DR5 magnitude in F515 band (Mg b triplet) with auto aperture |
+| 36 | mag | sp_mag_F660_auto | S-PLUS DR5 magnitude in F660 band (H\(\alpha\)) with auto aperture |
+| 37 | mag | sp_mag_F861_auto | S-PLUS DR5 magnitude in F861 band (Ca triplet) with auto aperture |
+| 38–49 | mag | sp_mag_[band]_PStotal | S-PLUS DR5 magnitude in [band] band with PStotal aperture; [band] is one of: u, g, r, i, z, F378, F395, F410, F430, F515, F660, F861 |
+| 50–61 | mag | sp_mag_[band]_aper_6 | S-PLUS DR5 magnitude in [band] band with 6'' aperture; [band] is one of: u, g, r, i, z, F378, F395, F410, F430, F515, F660, F861 |
+| 62–73 | mag | sp_mag_err_[band]_auto | S-PLUS DR5 magnitude error in [band] band with auto aperture; [band] is one of: u, g, r, i, z, F378, F395, F410, F430, F515, F660, F861 |
+| 74–85 | mag | sp_mag_err_[band]_PStotal | S-PLUS DR5 magnitude error in [band] band with PStotal aperture; [band] is one of: u, g, r, i, z, F378, F395, F410, F430, F515, F660, F861 |
+| 86–97 | mag | sp_mag_err_[band]_aper_6 | S-PLUS DR5 magnitude error in [band] band with 6'' aperture; [band] is one of: u, g, r, i, z, F378, F395, F410, F430, F515, F660, F861 |
+| 98–101 | mag | sp_mag_g_[type] | S-PLUS DR5 magnitude in g band for [type] aperture; [type] is one of: aper_3, res, iso, petro |
+| 102–105 | mag | sp_mag_r_[type] | S-PLUS DR5 magnitude in r band for [type] aperture; [type] is one of: aper_3, res, iso, petro |
+| 106 |  | sp_field | Survey field identifier |
+| 107 |  | sp_photoz | S-PLUS DR5 single-point photometric redshift estimate[^erik-redshifts] |
+| 108 |  | sp_photoz_odds | Area of PDF within 0.02 of the PDF peak (photo-z odds) |
+| 109–111 |  | sp_photoz_pdf_weights_[i] | Weights of the gaussian components of the photometric-redshift PDF mixture, where [i] is one of 0, 1, 2 |
+| 112–114 |  | sp_photoz_pdf_means_[i] | Means of the gaussian components of the photometric-redshift PDF mixture, where [i] is one of 0, 1, 2 |
+| 115–117 |  | sp_photoz_pdf_stds_[i] | Standard deviations of the gaussian components of the photometric-redshift PDF mixture, where [i] is one of 0, 1, 2 |
+| 118 |  | sp_in_overlap_region | Flag indicating object lies in overlap region (bool/int) |
+| 119–126 | mag | ls_mag_[band] | Legacy Survey DR10 magnitudes where [band] is one of: g, r, i, z, w1, w2, w3, w4 |
+| 127 |  | ls_type | Legacy Survey DR10 morphological type |
+| 128 | arcsec | ls_shape_r | Legacy Survey effective radius (arcsec) |
+| 129 |  | lit_redshift | Spectroscopic redshift[^erik-redshifts] |
+| 130 |  | lit_redshift_err | Spectroscopic redshift error |
+| 131 |  | lit_class_spec | Spectroscopic classification |
+| 132 |  | lit_original_class_spec | Original spectroscopic classification before grouping |
+| 133 |  | lit_source | Catalogue/source of the spectroscopic redshift |
+| 134 |  | lit_redshift_flag | Flag indicating spectroscopic redshift quality |
+
+## Data
+
+Table 1
+
+CSVtable\_1.csv[Download](https://github.com/splus-scale/data/releases/download/v1/table_1.csv)
+
+eCSVtable\_1.ecsv[Download](https://github.com/splus-scale/data/releases/download/v1/table_1.ecsv)
+
+Parquettable\_1.parquet[Download](https://github.com/splus-scale/data/releases/download/v1/table_1.parquet)
+
+FITStable\_1.fits[Download](https://github.com/splus-scale/data/releases/download/v1/table_1.fits)
+
+VOTabletable\_1.xml[Download](https://github.com/splus-scale/data/releases/download/v1/table_1.xml)
+
+MRTtable\_1.mrt[Download](https://github.com/splus-scale/data/releases/download/v1/table_1.mrt)
+
+Table 2
+
+CSVtable\_2.csv[Download](https://github.com/splus-scale/data/releases/download/v1/table_2.csv)
+
+eCSVtable\_2.ecsv[Download](https://github.com/splus-scale/data/releases/download/v1/table_2.ecsv)
+
+Parquettable\_2.parquet[Download](https://github.com/splus-scale/data/releases/download/v1/table_2.parquet)
+
+FITStable\_2.fits[Download](https://github.com/splus-scale/data/releases/download/v1/table_2.fits)
+
+VOTabletable\_2.xml[Download](https://github.com/splus-scale/data/releases/download/v1/table_2.xml)
+
+MRTtable\_2.mrt[Download](https://github.com/splus-scale/data/releases/download/v1/table_2.mrt)
+
+## Citation
+
+reference.bib
+
+CopyDownload
+
+@article{Mendes\_de\_Oliveira\_2026,
+  author    = {Mendes de Oliveira, C. and Cardoso, N. M. and Lopes, P. A. A. and Ribeiro, A. L. B. and Olave-Rojas, D. E. and Krabbe, A. and Sodré, L. and Demarco, R. and Smith Castelli, A. V. and Cid Fernandes, R. and Herpich, F. R. and Torres-Flores, S. and Carrasco, E. R. and Lima, E. V. R. and Oliveira Schwarz, G. and Costa, A. P. and Doubrawa, L. and Montaguth, G. P. and Lima-Dias, C. and Cypriano, E. S. and Carvalho, M. S. and Lobo, C. and Fonseca-Faria, M. and Nakazono, L. and Lopes, A. R. and Almeida-Fernandes, F. and Kanaan, A. and Ribeiro, T. and Schoenell, W.},
+  doi       = {10.3847/1538-4357/ae84d0},
+  issn      = {1538-4357},
+  journal   = {The Astrophysical Journal},
+  month     = {August},
+  number    = {2},
+  pages     = {202},
+  publisher = {American Astronomical Society},
+  title     = {S-PLUS Clusters And Large-scale Environments (SCALE). I. A Catalog of Known Clusters and Groups in DR5 and a Pilot Study of Abell 4038},
+  url       = {http://dx.doi.org/10.3847/1538-4357/ae84d0},
+  volume    = {1007},
+  year      = {2026}
+}
+
+* * *
+
+* * *
+
+[
+
+![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)
+
+Research article
+
+### S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups
+
+_A&A_ (2026)
+
+
+
+](/publications/2026/doubrawa/)
+
+[
+
+![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)
+
+Research article
+
+### SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies
+
+_A&A_ (2025)
+
+
+
+](/publications/2025/doubrawa/)
+
+---
+
+## https://splus-scale.github.io/publications/
+
+URL: https://splus-scale.github.io/publications/page/1
+
+https://splus-scale.github.io/publications/
+
+---
+
+## Publisher
+
+URL: https://splus-scale.github.io/publishers
+
+S-PLUS Clusters and Large-scale Environments
+
+1.  ![](/_astro/aas.UAW49qUi_Z5LdAe.webp)
+    
+    ## [American Astronomical Society](/publishers/aas/)
+    
+    1 venue
+    
+2.  ![](/_astro/eso.D7QtX5Z5_ZQrR12.webp)
+    
+    ## [European Southern Observatory](/publishers/eso/)
+    
+    1 venue
+
+---
+
+## American Astronomical Society
+
+URL: https://splus-scale.github.io/publishers/aas
+
+S-PLUS Clusters and Large-scale Environments
+
+1.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/venues/apj/)IF5.7Journal Impact FactorJournal Impact Factor
+    
+    Journal
+    
+    ## [The Astrophysical Journal](/venues/apj/)
+    
+    1 publication
+
+---
+
+## European Southern Observatory
+
+URL: https://splus-scale.github.io/publishers/eso
+
+S-PLUS Clusters and Large-scale Environments
+
+1.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/venues/aa/)IF6.1Journal Impact FactorJournal Impact Factor
+    
+    Journal
+    
+    ## [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 publications
+
+---
+
+## topics
+
+URL: https://splus-scale.github.io/topics
+
+S-PLUS Clusters and Large-scale Environments
+
+
+
+---
+
+## Venues
+
+URL: https://splus-scale.github.io/venues
+
+S-PLUS Clusters and Large-scale Environments
+
+1.  [![Cover of Astronomy & Astrophysics](/_astro/aa.D5LgeuQl_ZmOlDw.webp)](/venues/aa/)IF6.1Journal Impact FactorJournal Impact Factor
+    
+    Journal
+    
+    ## [Astronomy & Astrophysics](/venues/aa/)
+    
+    2 publications
+    
+2.  [![Cover of The Astrophysical Journal](/_astro/apj.CXF24TDT_1xAwXP.webp)](/venues/apj/)IF5.7Journal Impact FactorJournal Impact Factor
+    
+    Journal
+    
+    ## [The Astrophysical Journal](/venues/apj/)
+    
+    1 publication
+
+---
+
+## Astronomy & Astrophysics
+
+URL: https://splus-scale.github.io/venues/aa
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  AcceptedAccepted for publication, not yet in an issueAccepted for publication, not yet in an issue
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](/publications/2026/doubrawa/)
+    
+    L. Doubrawa, A. Finoguenov, E. S. Cypriano, C. Mendes de Oliveira, E. V. Lima _et al._
+    
+
+### 20251 publication
+
+3.  #### [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](/publications/2025/doubrawa/)
+    
+    L. Doubrawa, R. Smith, C. Mendes de Oliveira, A. L. O’Mill, L. Nakazono _et al._
+
+---
+
+## The Astrophysical Journal
+
+URL: https://splus-scale.github.io/venues/apj
+
+S-PLUS Clusters and Large-scale Environments
+
+### 20261 publication
+
+2.  Recently publishedPublished within the last 6 monthsPublished within the last 6 months
+    
+    #### [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](/publications/2026/mendes-de-oliveira/)
+    
+    C. Mendes de Oliveira, N. M. Cardoso, P. A. A. Lopes, A. L. B. Ribeiro, D. E. Olave-Rojas _et al._
+
+---
+
+## https://splus-scale.github.io/venues/
+
+URL: https://splus-scale.github.io/venues/page/1
+
+https://splus-scale.github.io/venues/

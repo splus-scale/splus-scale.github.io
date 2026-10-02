@@ -1,0 +1,119 @@
+# SCALE
+
+> S-PLUS Clusters and Large-scale Environments
+
+This file helps language models discover the most useful content on this site.
+
+## Home
+
+- [About the project](https://splus-scale.github.io/home.md): SCALE studies galaxy clusters, groups and their large-scale environments with the 12-band photometry of S-PLUS.
+
+## About
+
+- [About](https://splus-scale.github.io/about.md): The Southern Photometric Local Universe Survey, and the SCALE project built on it.
+
+## Areas
+
+- [areas](https://splus-scale.github.io/areas.md): S-PLUS Clusters and Large-scale Environments
+
+## Category
+
+- [Category](https://splus-scale.github.io/category.md): S-PLUS Clusters and Large-scale Environments
+- [Journal](https://splus-scale.github.io/category/journal.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/category/journal/](https://splus-scale.github.io/category/journal/page/1.md)
+- [Research article](https://splus-scale.github.io/category/research.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/category/research/](https://splus-scale.github.io/category/research/page/1.md)
+
+## Data
+
+- [Data](https://splus-scale.github.io/data.md): How the group's public datasets are published, and how to request the rest.
+
+## People
+
+- [People](https://splus-scale.github.io/people.md): S-PLUS Clusters and Large-scale Environments
+- [Angela C Krabbe](https://splus-scale.github.io/people/ackrabbe.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/ackrabbe/](https://splus-scale.github.io/people/ackrabbe/page/1.md)
+- [Antonio Kanaan](https://splus-scale.github.io/people/akanaan.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/akanaan/](https://splus-scale.github.io/people/akanaan/page/1.md)
+- [Andre L B Ribeiro](https://splus-scale.github.io/people/albribeiro.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/albribeiro/](https://splus-scale.github.io/people/albribeiro/page/1.md)
+- [A P Costa](https://splus-scale.github.io/people/apcosta.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/apcosta/](https://splus-scale.github.io/people/apcosta/page/1.md)
+- [Amanda R Lopes](https://splus-scale.github.io/people/arlopes.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/arlopes/](https://splus-scale.github.io/people/arlopes/page/1.md)
+- [Analia V Smith Castelli](https://splus-scale.github.io/people/avscastelli.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/avscastelli/](https://splus-scale.github.io/people/avscastelli/page/1.md)
+- [Ciria Lima-Dias](https://splus-scale.github.io/people/climadias.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/climadias/](https://splus-scale.github.io/people/climadias/page/1.md)
+- [Catarina Lobo](https://splus-scale.github.io/people/clobo.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/clobo/](https://splus-scale.github.io/people/clobo/page/1.md)
+- [Claudia Mendes de Oliveira](https://splus-scale.github.io/people/cmdeoliveira.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/cmdeoliveira/](https://splus-scale.github.io/people/cmdeoliveira/page/1.md)
+- [Daniela E Olave-Rojas](https://splus-scale.github.io/people/deolaverojas.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/deolaverojas/](https://splus-scale.github.io/people/deolaverojas/page/1.md)
+- [Eleazar R Carrasco](https://splus-scale.github.io/people/ecarrasco.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/ecarrasco/](https://splus-scale.github.io/people/ecarrasco/page/1.md)
+- [Eduardo S Cypriano](https://splus-scale.github.io/people/escypriano.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/escypriano/](https://splus-scale.github.io/people/escypriano/page/1.md)
+- [Erik V Lima](https://splus-scale.github.io/people/evlima.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/evlima/](https://splus-scale.github.io/people/evlima/page/1.md)
+- [Felipe Almeida-Fernandes](https://splus-scale.github.io/people/falmeidafernandes.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/falmeidafernandes/](https://splus-scale.github.io/people/falmeidafernandes/page/1.md)
+- [Fabio R Herpich](https://splus-scale.github.io/people/fherpich.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/fherpich/](https://splus-scale.github.io/people/fherpich/page/1.md)
+- [Gustavo Oliveira Schwarz](https://splus-scale.github.io/people/goliveiraschwarz.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/goliveiraschwarz/](https://splus-scale.github.io/people/goliveiraschwarz/page/1.md)
+- [Gissel P Montaguth](https://splus-scale.github.io/people/gpmontaguth.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/gpmontaguth/](https://splus-scale.github.io/people/gpmontaguth/page/1.md)
+- [Lia Doubrawa](https://splus-scale.github.io/people/ldoubrawa.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/ldoubrawa/](https://splus-scale.github.io/people/ldoubrawa/page/1.md)
+- [Lilianne Nakazono](https://splus-scale.github.io/people/lnakazono.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/lnakazono/](https://splus-scale.github.io/people/lnakazono/page/1.md)
+- [Laerte Sodre Jr](https://splus-scale.github.io/people/lsodrejr.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/lsodrejr/](https://splus-scale.github.io/people/lsodrejr/page/1.md)
+- [M Fonseca-Faria](https://splus-scale.github.io/people/mfonsecafaria.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/mfonsecafaria/](https://splus-scale.github.io/people/mfonsecafaria/page/1.md)
+- [Maiara S Carvalho](https://splus-scale.github.io/people/mscarvalho.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/mscarvalho/](https://splus-scale.github.io/people/mscarvalho/page/1.md)
+- [Natanael M Cardoso](https://splus-scale.github.io/people/nmcardoso.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/nmcardoso/](https://splus-scale.github.io/people/nmcardoso/page/1.md)
+- [Paulo A A Lopes](https://splus-scale.github.io/people/paalopes.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/paalopes/](https://splus-scale.github.io/people/paalopes/page/1.md)
+- [Roberto Cid Fernandes](https://splus-scale.github.io/people/rcidfernandes.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/rcidfernandes/](https://splus-scale.github.io/people/rcidfernandes/page/1.md)
+- [Ricardo Demarco](https://splus-scale.github.io/people/rdemarco.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/rdemarco/](https://splus-scale.github.io/people/rdemarco/page/1.md)
+- [Rodrigo Haack](https://splus-scale.github.io/people/rhaack.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/rhaack/](https://splus-scale.github.io/people/rhaack/page/1.md)
+- [Sergio Torres-Flores](https://splus-scale.github.io/people/storresflores.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/storresflores/](https://splus-scale.github.io/people/storresflores/page/1.md)
+- [Tiago Ribeiro](https://splus-scale.github.io/people/tribeiro.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/tribeiro/](https://splus-scale.github.io/people/tribeiro/page/1.md)
+- [William Schoenell](https://splus-scale.github.io/people/wschoenell.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/people/wschoenell/](https://splus-scale.github.io/people/wschoenell/page/1.md)
+
+## Publications
+
+- [Publications](https://splus-scale.github.io/publications.md): S-PLUS Clusters and Large-scale Environments
+- [SCALE: Using S-PLUS photometric information to analyse the brightest cluster galaxy alignment with satellite galaxies](https://splus-scale.github.io/publications/2025/doubrawa.md): Astronomy & Astrophysics (2025)
+- [S-PLUS Clusters And Large-scale Environments (SCALE): II. PZWav versus redMaPPer identification of eRosita groups](https://splus-scale.github.io/publications/2026/doubrawa.md): Astronomy & Astrophysics (2026)
+- [S-PLUS Clusters And Large-scale Environments (SCALE): I. A catalog of known systems in DR5 and a pilot study of Abell 4038](https://splus-scale.github.io/publications/2026/mendes-de-oliveira.md): The Astrophysical Journal (2026)
+- [https://splus-scale.github.io/publications/](https://splus-scale.github.io/publications/page/1.md)
+
+## Publishers
+
+- [Publisher](https://splus-scale.github.io/publishers.md): S-PLUS Clusters and Large-scale Environments
+- [American Astronomical Society](https://splus-scale.github.io/publishers/aas.md): S-PLUS Clusters and Large-scale Environments
+- [European Southern Observatory](https://splus-scale.github.io/publishers/eso.md): S-PLUS Clusters and Large-scale Environments
+
+## Topics
+
+- [topics](https://splus-scale.github.io/topics.md): S-PLUS Clusters and Large-scale Environments
+
+## Venues
+
+- [Venues](https://splus-scale.github.io/venues.md): S-PLUS Clusters and Large-scale Environments
+- [Astronomy & Astrophysics](https://splus-scale.github.io/venues/aa.md): S-PLUS Clusters and Large-scale Environments
+- [The Astrophysical Journal](https://splus-scale.github.io/venues/apj.md): S-PLUS Clusters and Large-scale Environments
+- [https://splus-scale.github.io/venues/](https://splus-scale.github.io/venues/page/1.md)
+
