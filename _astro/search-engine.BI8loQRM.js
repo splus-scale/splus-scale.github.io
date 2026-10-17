@@ -1,0 +1,1 @@
+import{t as e}from"./fuse.COMZIxA7.js";function t(t){let n=new e(t,{keys:[{name:`title`,weight:.6},{name:`kicker`,weight:.15},{name:`excerpt`,weight:.15},{name:`body`,weight:.1}],threshold:.35,ignoreLocation:!0,minMatchCharLength:2});return(e,t=10)=>n.search(e,{limit:t}).map(e=>e.item)}export{t as createSearch};

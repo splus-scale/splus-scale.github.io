@@ -1,0 +1,1 @@
+import{t as e}from"./fuse.COMZIxA7.js";function t(t){return new e(t,{keys:[{name:`slug`,weight:.5},{name:`title`,weight:.35},{name:`kicker`,weight:.15}],includeScore:!0,threshold:.45,ignoreLocation:!0,minMatchCharLength:2})}export{t as default};
